@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar-ols/joker.git"
+  },
+  "keywords": [
+    "Jokes"
+  ],
+  "author": "Mar Ols <marteb.olsen@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mar-ols/joker/issues"
+  },
+  "homepage": "https://github.com/mar-ols/joker#readme"
+}
