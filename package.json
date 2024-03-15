@@ -1,0 +1,31 @@
+{
+  "name": "mar-ols-joker",
+  "version": "0.1.0",
+  "description": "Application that tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar-ols/joker.git"
+  },
+  "keywords": [
+    "Jokes"
+  ],
+  "author": "Mar Ols <marteb.olsen@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mar-ols/joker/issues"
+  },
+  "homepage": "https://github.com/mar-ols/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1",
+    "mar-ols-joker": "^0.1.0"
+  }
+}
